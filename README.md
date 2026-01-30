@@ -4,11 +4,9 @@
 
 
 
-*This is Ender, A Minecraft Launcher Build From [Amethyst](https://github.com/AngelAuraMC/Amethyst-Android) And [Pojav](https://github.com/PojavLauncherTeam/PojavLauncher)*
+This is Ender, A Minecraft Launcher Build From [Amethyst](https://github.com/AngelAuraMC/Amethyst-Android) And [Pojav](https://github.com/PojavLauncherTeam/PojavLauncher)*
 
-Amethyst is a launcher that allows you to play Minecraft: Java Edition on your Android and [iOS](https://github.com/AngelAuraMC/Amethyst-iOS) devices.
-
-For more details, check out our [wiki](https://wiki.angelauramc.dev)!
+Ender is a launcher that allows you to play Minecraft: Java Edition on your Android device.
 
 ## Stuff
 Hi We Are Working
