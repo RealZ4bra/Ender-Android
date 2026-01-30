@@ -10,6 +10,8 @@ Amethyst is a launcher that allows you to play Minecraft: Java Edition on your A
 
 For more details, check out our [wiki](https://wiki.angelauramc.dev)!
 
+## Stuff
+Hi We Are Working
 # Amethyst Stuff
 
 ## Table of Contents
