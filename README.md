@@ -5,10 +5,12 @@
 
 
 *From [Boardwalk](https://github.com/zhuowei/Boardwalk)'s ashes and [PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher)'s ruined reputation, here comes Amethyst!*
-# Amethyst Stuff
+
 Amethyst is a launcher that allows you to play Minecraft: Java Edition on your Android and [iOS](https://github.com/AngelAuraMC/Amethyst-iOS) devices.
 
 For more details, check out our [wiki](https://wiki.angelauramc.dev)!
+
+# Amethyst Stuff
 
 ## Table of Contents
 
