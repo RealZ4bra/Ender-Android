@@ -1,4 +1,4 @@
-<h1 align="center">Angel Aura Amethyst</h1>
+<h1 align="center">Ender Launcher Android</h1>
 
 <img src="https://github.com/user-attachments/assets/eacd38dc-8eee-4234-8c4d-cbc9dfcbdf20" align="left" width="130" height="130" alt="Amethyst logo">
 
