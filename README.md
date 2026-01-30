@@ -1,6 +1,6 @@
 <h1 align="center">Angel Aura Amethyst</h1>
 
-<img src="https://github.com/AngelAuraMC/Amethyst-Android/blob/v3_openjdk/app_pojavlauncher/src/main/assets/amethyst.png" align="left" width="130" height="130" alt="Amethyst logo">
+<img src="https://github.com/user-attachments/assets/eacd38dc-8eee-4234-8c4d-cbc9dfcbdf20" align="left" width="130" height="130" alt="Amethyst logo">
 
 [![Android CI](https://github.com/AngelAuraMC/Amethyst-Android/workflows/Android%20CI/badge.svg)](https://github.com/AngelAuraMC/Amethyst-Android/actions)
 [![GitHub commit activity](https://img.shields.io/github/commit-activity/m/AngelAuraMC/Amethyst-Android)](https://github.com/AngelAuraMC/Amethyst-Android/actions)
