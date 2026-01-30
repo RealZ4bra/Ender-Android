@@ -4,7 +4,7 @@
 
 
 
-*From [Boardwalk](https://github.com/zhuowei/Boardwalk)'s ashes and [PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher)'s ruined reputation, here comes Amethyst!*
+*This is Ender, A Minecraft Launcher Build From [Amethyst](https://github.com/AngelAuraMC/Amethyst-Android) And [Pojav](https://github.com/PojavLauncherTeam/PojavLauncher)*
 
 Amethyst is a launcher that allows you to play Minecraft: Java Edition on your Android and [iOS](https://github.com/AngelAuraMC/Amethyst-iOS) devices.
 
